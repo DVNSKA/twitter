@@ -2,7 +2,7 @@
 twitter clone
 
 finished using reat.js for the front end and utilised material ui for all icons and buttons, 
-then enhanced their features!Important separated home page into sidebar feed widges, subdivided 
+then override their features!Important separated home page into sidebar feed widges, subdivided 
 sidebar to sidebar options, tweet button feed is tweetbox, and post tweetbox is sticky to position 
 to stay stick while posts are dragging down and updating post for all posts its having props. 
 Username displayname confirmed using material UI and TwitterTimeline to look for blue tick text in 
