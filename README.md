@@ -5,8 +5,9 @@ finished using reat.js for the front end and utilised material ui for all icons 
 then override their features!Important separated home page into sidebar feed widges, subdivided 
 sidebar to sidebar options, tweet button feed is tweetbox, and post tweetbox is sticky to position 
 to stay stick while posts are dragging down and updating post for all posts its having props. 
-Username displayname confirmed using material UI and TwitterTimeline to look for blue tick text in 
-the post text and img in the image url search field.React-Twitter-Embed is used to embed imported content for all sidebar widgets.
+Username displayname text verified image and serch box in widges confirmed using material UI and verified 
+to look for blue tick ,text is  the post text and img in the image url .React-Twitter-Embed is used to embed
+imported content for all sidebar widgets.
 
 backend is firebase, which produced a batabase and in that created a collection with our data.
 We then configured using firebaseconfig, used firebaseapp, and ran firestore. 
